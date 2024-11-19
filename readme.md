@@ -1,15 +1,10 @@
-boiler plate code
-this is a set of code that shows enable html page without any veriation
+# HTML Assignments
 
-Doctype
-It tells the browser to use the modern version of html
+## Assignment1
+![ss1](./ss1.jpg)
 
-UTS-8
-8 BIT unicode transformation format
+## Assignment2
+![ss2](./ss2.png)
 
-void elements or self closing elements
-
-<sup> super script
-<sub> sub script
-<ins>underline
-<del> 
+## Assignment3
+![ss3](./ss3.png)
